@@ -11,7 +11,7 @@ function getTriangleArea(a, h) {
 
 	if (a<=0 || h<=0) { 
 
-		return Nieprawidłowe dane;
+		return 'Nieprawidłowe dane';
 	}
 	
 	else {
